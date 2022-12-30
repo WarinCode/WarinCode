@@ -4,9 +4,10 @@
 
 <span>
 
-<i>👓 Hi, I'm <a href="https://github.com/VarinCode/">Varin</a>&nbsp;just a student Dek66.</i><br>
+<i>👓 Hi, I'm <a href="https://www.instagram.com/varin.dev/">Varin</a>&nbsp;just a student Dek66.</i><br>
 <i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i><br>
 <i>💻 My favorite thing is web development and programming languages.</i><br>
+  
 </span>
 
 
