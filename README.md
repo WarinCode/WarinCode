@@ -10,11 +10,19 @@
   
 </span>
 
-
-
 <i><h1 align="center">Stats📊</h1></i>
 <br>
-<p align="center">
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>&nbsp; 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VarinCode&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VarinCode&langs_count=10&show_icons=true&locale=en&layout=compact&_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+<br>
+<br>
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=7&margin-w=7&margin-h=17)
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=VarinCode&theme=react-dark&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
+
+
+
+
+
