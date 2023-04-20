@@ -1,8 +1,9 @@
-![Github Banner](https://raw.githubusercontent.com/Varin471/Varin471/main/bg-hero/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![Github Banner](https://kinsta.com/fr/wp-content/uploads/sites/4/2023/02/github-pages.jpg)
+
 
 <i><h1 align="center">About me📕</h1></i>
 <div>
-<i>👓 Hi, I'm <a href="https://www.instagram.com/varin.dev/">Varin</a>&nbsp;just a student Dek66.</i><br>
+<i>👓 Hi, I'm <a href="https://www.instagram.com/varin.jsx">Varin</a>&nbsp;just a student Dek66.</i><br>
 <i>🏫 PhothiSamphanPhitthayakan School. (M.6/2)</i><br>
 <i>💻 My favorite thing is web development and programming languages.</i><br>
 </div>
