@@ -3,10 +3,10 @@
 
 <h1 align="center"><i>About me</i>📕</h1>
 <div>
-  <i>👓 Hi, I'm <a href="https://www.instagram.com/varin.jsx">Varin.</a>&nbsp;(Dek66)</i><br>
+  <i>👓 Hi, I'm <a href="https://www.instagram.com/varin.jsx">Varin.</a></i><br>
   <i>💻 My favorite thing is web development and programming languages.</i><br>
   <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (Com-Sci)</i><br>
-  <i>🏫 Currently entering university.</i>
+  <i>🏫 Kasetsart University Sriracha Campus. (KU83 Com-Sci)</i>
 </div>
 
 <!-- Languages & Tools & Frameworks -->
