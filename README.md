@@ -38,7 +38,7 @@
 <br>
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=7&margin-w=7&margin-h=17)
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=VarinCode&theme=react-dark&area=true&hide_border=true)
+<!-- ![graph](https://github-readme-activity-graph.cyclic.app/graph?username=VarinCode&theme=&area=true&hide_border=true) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
 
 </div>
