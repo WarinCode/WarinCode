@@ -21,6 +21,7 @@
 <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/React.svg" height="50vh" width="50vh">&nbsp; 
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Bootstrap.svg" height="50vh" width="50vh">&nbsp;
+<!--     <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/89a82898b3b02b5e84dc973ec4b69ebb8392ac8d/icons/Tailwind%20CSS.svg" height="50vh" width="50vh">&nbsp; -->
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Git.svg" height="50vh" width="50vh">&nbsp;
 <br>
 <h3>🗂 <i>Programes</i></h3>
