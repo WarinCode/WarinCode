@@ -10,7 +10,7 @@
 </div>
 
 <!-- Languages & Tools & Frameworks -->
-<span>
+<!-- <span>
 <h3>🛠 <i>Languages & Tools & Frameworks</i></h3>
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
@@ -21,14 +21,14 @@
 <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/React.svg" height="50vh" width="50vh">&nbsp; 
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Bootstrap.svg" height="50vh" width="50vh">&nbsp;
-<!--     <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/89a82898b3b02b5e84dc973ec4b69ebb8392ac8d/icons/Tailwind%20CSS.svg" height="50vh" width="50vh">&nbsp; -->
+    <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/89a82898b3b02b5e84dc973ec4b69ebb8392ac8d/icons/Tailwind%20CSS.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Git.svg" height="50vh" width="50vh">&nbsp;
 <br>
 <h3>🗂 <i>Programes</i></h3>
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/3727ccab7320ee70853794996e94e49caaeb657a/icons/PyCharm.svg" height="50vh" width="50vh">&nbsp;
     <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/7bfd9060da2a7343c6e79a938a930dbcbb34fe60/icons/Powershell.svg" height="50vh" width="50vh">
-</span>
+</span> -->
 
 <h1 align="center"><i>My Stats</i>📊</h1>
 <br>
