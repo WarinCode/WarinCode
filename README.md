@@ -21,13 +21,11 @@
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Sass.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-  <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Python.svg" height="50vh" width="50vh">&nbsp;
 <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/React.svg" height="50vh" width="50vh">&nbsp; 
 <br>
 <h3>🗂 <i>Programes</i></h3>
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
-  <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/3727ccab7320ee70853794996e94e49caaeb657a/icons/PyCharm.svg" height="50vh" width="50vh">&nbsp;
     <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/7bfd9060da2a7343c6e79a938a930dbcbb34fe60/icons/Powershell.svg" height="50vh" width="50vh">
 </span>
 
