@@ -41,6 +41,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
 </div>
 
-<!--   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/ac84db4fae600fc7ee14d53c348e2428f7fe5e38/img/buymeacoffee.svg"  alt="buymeacoffee" style="width:600px; height:80px;"  /> -->
-
-
+<!-- <a href="https://www.buymeacoffee.com/varin" style="position:relative; right:0">
+  <img src="https://github.com/VarinCode/VarinCode/blob/main/img/btn-buymeacoffee.png?raw=true"  
+    alt="buymeacoffee" style="width:400px; height:200px; " align="right"   />
+</a> -->
