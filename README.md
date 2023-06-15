@@ -1,6 +1,5 @@
 ![Github Banner](https://kinsta.com/fr/wp-content/uploads/sites/4/2023/02/github-pages.jpg)
 
-
 <h1 align="center"><i>About me</i>📕</h1>
 <div>
   
@@ -41,5 +40,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
 </div>
+
+<!--   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/ac84db4fae600fc7ee14d53c348e2428f7fe5e38/img/buymeacoffee.svg"  alt="buymeacoffee" style="width:600px; height:80px;"  /> -->
 
 
