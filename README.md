@@ -15,7 +15,7 @@
 
 <!-- Languages & Tools & Frameworks -->
 <span>
-<h3>🛠 <i>Languages & Tools & Frameworks</i></h3>
+<h3>🛠 <i>Stack</i></h3>
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
   <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/e4f0989618ae8a36cddc17706d0f8c7cf221ff39/icons/Sass.svg" height="50vh" width="50vh">&nbsp;
@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/VarinCode/VarinCode/7bfd9060da2a7343c6e79a938a930dbcbb34fe60/icons/Powershell.svg" height="50vh" width="50vh">
 </span>
 
-<h1 align="center"><i>My Stats</i>📊</h1>
+<h1 align="center"><i>Stats</i>📊</h1>
 <br>
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=radical"/>&nbsp; 
@@ -41,3 +41,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
 </div>
+
+
