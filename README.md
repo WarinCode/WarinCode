@@ -20,9 +20,11 @@
   <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
+  <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp; 
   <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
 <br/>
+  
 <h2>🗂 <i>Programes</i></h2>
   <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/Powershell.svg" height="50vh" width="50vh">
