@@ -6,8 +6,8 @@
   
   ![](https://komarev.com/ghpvc/?username=VarinCode&color=blueviolet&style=for-the-badge)
     
-  <i>👓 Hi, I'm <a href="https://www.instagram.com/varin.jsx">Varin.</a></i><br>
-  <i>💻 I interested in web development and programming languages.</i><br>
+  <i>👓 My name is <a href="https://www.instagram.com/varin.jsx">Varin.</a></i><br>
+  <i>💻 I'm interested in web development and programming languages.</i><br>
   <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (Com-Sci)</i><br>
   <i>🏫 Kasetsart University Sriracha Campus. (KU83 Com-Sci)</i>
 </div>
