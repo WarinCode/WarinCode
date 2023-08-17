@@ -1,16 +1,16 @@
 ![Github Banner](https://kinsta.com/fr/wp-content/uploads/sites/4/2023/02/github-pages.jpg)
 
 <h1 align="center"><i>About me</i>📕</h1>
+
 <div>
   
   ![](https://komarev.com/ghpvc/?username=VarinCode&color=blueviolet&style=for-the-badge)
     
   <i>👓 Hi, I'm <a href="https://www.instagram.com/varin.jsx">Varin.</a></i><br>
-  <i>💻 My favorite thing is web development and programming languages.</i><br>
+  <i>💻 I interested in web development and programming languages.</i><br>
   <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (Com-Sci)</i><br>
   <i>🏫 Kasetsart University Sriracha Campus. (KU83 Com-Sci)</i>
 </div>
-
 
 <!-- Languages & Tools & Frameworks -->
 <span>
