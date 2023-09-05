@@ -40,11 +40,12 @@
 <h1 align="center"><i>Stats</i>📊</h1>
 <br/>
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=radical"/>&nbsp; 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=VarinCode&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical"/>
-<br/>
 <br/>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarinCode&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=7&margin-w=7&margin-h=17)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
