@@ -20,6 +20,7 @@
   <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
+  <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp; 
   <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
@@ -42,14 +43,14 @@
 <div align="center">
 <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarinCode&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=7&margin-w=7&margin-h=17)
+![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=8&row=1&margin-w=15&margin-h=19)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=505)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=react&hide_border=true&border_radius=23&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <br/>
