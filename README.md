@@ -21,9 +21,10 @@
   <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
+  <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
+  <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
   <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp; 
   <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
 <br/>
   
 <h2>🗂 <i>Programes</i></h2>
