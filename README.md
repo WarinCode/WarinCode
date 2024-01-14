@@ -27,7 +27,7 @@
   <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp;
 <br/>
   
-<h2>🗂 <i>Programes</i></h2>
+<h2>🗂 <i>Tools</i></h2>
   <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/Powershell.svg" height="50vh" width="50vh">
 <h2>📱 <i>Social</i></h2>
