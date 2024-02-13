@@ -4,15 +4,15 @@
 
 <div>
   
-  ![](https://komarev.com/ghpvc/?username=VarinCode&color=blueviolet&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=WarinCode&color=blueviolet&style=for-the-badge)
     
-  <i>👓 My name is <a href="https://www.instagram.com/varin.jsx">Varin.</a></i><br>
+  <i>👓 My name is <a href="https://www.instagram.com/warin.tsx">Warin.</a></i><br>
   <i>💻 I'm interested in web development and programming languages.</i><br>
   <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (Com-Sci)</i><br>
   <i>🏫 Kasetsart University Sriracha Campus. (KU83 Com-Sci)</i>
 </div>
 
-<!-- Languages & Tools & Frameworks -->
+<!-- Languages , Tools and Frameworks -->
 <span>
 <h2>🛠 <i>Stack</i></h2>
   <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
@@ -31,11 +31,11 @@
     <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Powershell.svg" height="50vh" width="50vh">&nbsp; 
 <h2>📱 <i>Social</i></h2>
-  <a href='https://github.com/VarinCode' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=010100'/></a>
+  <a href='https://github.com/WarinCode' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=010100'/></a>
   <a href='https://stackoverflow.com/users/17977124/9%e0%b8%97%e0%b8%b8%e0%b8%99' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/stackoverflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=f19544&labelColor=FFFFFF&color=FAFAFA'/></a>
     <a href='https://proton.me' target="_blank"><img alt='protonmail' src='https://img.shields.io/badge/proton-100000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=6d4aff&color=6d4aff'/></a>
-  <a href='https://www.instagram.com/varin.jsx/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff1984&color=ff1984'/></a>
-  <a href='https://twitter.com/VarinCode' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=179cf0&color=179cf0'/></a>
+  <a href='https://www.instagram.com/warin.tsx/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff1984&color=ff1984'/></a>
+  <a href='https://twitter.com/WarinCode' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=179cf0&color=179cf0'/></a>
   <a href='https://open.spotify.com/user/31xvj63svkvkxttiq5sbh7ldl3bm?si=9753c530fe5144f9' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/spotify-100000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1ed760&color=1ed760'/></a>
 </span>
 
@@ -44,14 +44,14 @@
 <div align="center">
 <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarinCode&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarinCode&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VarinCode&theme=juicyfresh&column=8&row=1&margin-w=15&margin-h=19)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=VarinCode&theme=react&hide_border=true&border_radius=23&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=WarinCode&theme=juicyfresh&column=8&row=1&margin-w=15&margin-h=19)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WarinCode&theme=react&hide_border=true&border_radius=23&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 <br/>
