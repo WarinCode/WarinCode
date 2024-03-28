@@ -14,22 +14,30 @@
 
 <!-- Languages , Tools and Frameworks -->
 <span>
-<h2>🛠 <i>Stack</i></h2>
+<h2><i>Programming Languages</i></h2>
   <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
   <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
+  <img src="icons/Python.svg" height="50vh" width="50vh">  
+<br/>
+  
+<h2><i>Frameworks & libraries</i></h2>
   <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
   <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
 <br/>
-  
-<h2>🗂 <i>Tools</i></h2>
+
+<h2><i>Tools</i></h2>
     <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+<br/>
+
+<h2>🛠💻<i> Programs</i></h2>
     <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Powershell.svg" height="50vh" width="50vh">&nbsp; 
+<br/>
+
 <h2>📱 <i>Social</i></h2>
   <a href='https://github.com/WarinCode' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=010100'/></a>
   <a href='https://stackoverflow.com/users/17977124/9%e0%b8%97%e0%b8%b8%e0%b8%99' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/stackoverflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=f19544&labelColor=FFFFFF&color=FAFAFA'/></a>
