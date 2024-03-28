@@ -43,10 +43,9 @@
   </div>
 <br/>
 
-<h2><i>Programs</i></h2>
+<h2><i>IDEs</i></h2>
   <div>
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Powershell.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/CLion.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataSpell.svg" height="50vh" width="50vh">
   </div>
