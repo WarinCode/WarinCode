@@ -2,6 +2,7 @@
 
 <h1 align="center"><i>About me</i>📕</h1>
 
+
 <div>
   
   ![](https://komarev.com/ghpvc/?username=WarinCode&color=blueviolet&style=for-the-badge)
@@ -15,27 +16,38 @@
 <!-- Languages , Tools and Frameworks -->
 <span>
 <h2><i>Programming Languages</i></h2>
-  <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-  <img src="icons/Python.svg" height="50vh" width="50vh">  
+  <div>
+    <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Python.svg" height="50vh" width="50vh">      
+  </div>
 <br/>
   
 <h2><i>Frameworks & libraries</i></h2>
-  <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
-  <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
+  <div>
+    <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Express.svg" height="50vh" width="50vh">
+  </div>
 <br/>
 
 <h2><i>Tools</i></h2>
-    <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+  <div>
+      <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
+      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/NPM.svg" height="50vh" width="50vh">  
+  </div>
 <br/>
 
-<h2>🛠💻<i> Programs</i></h2>
-    <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Powershell.svg" height="50vh" width="50vh">&nbsp; 
+<h2><i> Programs</i></h2>
+  <div>
+      <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/Powershell.svg" height="50vh" width="50vh">&nbsp; 
+      <img src="icons/CLion.svg" height="50vh" width="50vh">
+  </div>
 <br/>
 
 <h2>📱 <i>Social</i></h2>
