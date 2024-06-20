@@ -38,7 +38,8 @@
 <h2><i>Tools</i></h2>
   <div>
       <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
-      <img src="icons/Git.svg" height="50vh" width="50vh">
+      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/Postman.svg" height="50vh" width="50vh">
   </div>
 <br/>
 
