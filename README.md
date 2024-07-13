@@ -4,8 +4,9 @@
 
 
 <div>
-  
-  ![](https://komarev.com/ghpvc/?username=WarinCode&color=blueviolet&style=for-the-badge)
+
+  [![](https://visitcount.itsvg.in/api?id=Warin&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
     
   <i>👓 My name is <a href="https://www.instagram.com/warin.tsx">Warin Saipanya.</a></i><br/>
   <i>💻 I'm interested in web development and programming languages.</i><br/>
