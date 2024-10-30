@@ -24,10 +24,16 @@
     <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/MySQL.svg" height="50vh" width="50vh">
+  </div>
+<br/>
+
+<h2><i>JavaScript Runtimes</i></h2>
+  <div>
+    <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Bun.svg" height="50vh" width="50vh">
   </div>
 <br/>
   
@@ -51,8 +57,7 @@
   <div>
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/DataGrip.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/CLion.svg" height="50vh" width="50vh">
+      <img src="icons/DataGrip.svg" height="50vh" width="50vh">
   </div>
 <br/>
 
