@@ -26,7 +26,7 @@
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/MySQL.svg" height="50vh" width="50vh">
+    <img src="icons/SQL.png" height="50vh" width="50vh">
   </div>
 <br/>
 
@@ -49,7 +49,8 @@
   <div>
       <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp; 
+      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">
