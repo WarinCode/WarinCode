@@ -37,7 +37,7 @@
   </div>
 <br/>
   
-<h2><i>Frameworks & libraries</i></h2>
+<h2><i>Frameworks & Libraries</i></h2>
   <div>
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
@@ -45,30 +45,16 @@
   </div>
 <br/>
 
-<h2><i>Tools</i></h2>
+<h2><i>IDEs, Programs & Tools</i></h2>
   <div>
       <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Postman.svg" height="50vh" width="50vh">
-  </div>
-<br/>
-
-<h2><i>IDEs & Programs</i></h2>
-  <div>
+      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">
   </div>
 <br/>
-
-<h2><i>Social</i></h2>
-  <a href='https://github.com/WarinCode' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=010100'/></a>
-  <a href='https://stackoverflow.com/users/17977124/9%e0%b8%97%e0%b8%b8%e0%b8%99' target="_blank"><img alt='stackoverflow' src='https://img.shields.io/badge/stackoverflow-100000?style=for-the-badge&logo=stackoverflow&logoColor=f19544&labelColor=FFFFFF&color=FAFAFA'/></a>
-    <a href='https://proton.me' target="_blank"><img alt='protonmail' src='https://img.shields.io/badge/proton-100000?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=6d4aff&color=6d4aff'/></a>
-  <a href='https://www.instagram.com/warin.tsx/' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/instagram-100000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff1984&color=ff1984'/></a>
-  <a href='https://twitter.com/WarinCode' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/twitter-100000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=179cf0&color=179cf0'/></a>
-  <a href='https://open.spotify.com/user/31xvj63svkvkxttiq5sbh7ldl3bm?si=9753c530fe5144f9' target="_blank"><img alt='spotify' src='https://img.shields.io/badge/spotify-100000?style=for-the-badge&logo=spotify&logoColor=FFFFFF&labelColor=1ed760&color=1ed760'/></a>
-</span>
 
 <h1 align="center"><i>Stats</i>📊</h1><br/>
 <div align="center"><br/>
