@@ -22,7 +22,7 @@
 
 <span>
   
-  <h2><i>Frontend</i></h2>
+  <h2><i>- Frontend</i></h2>
   <div>
     <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
@@ -34,17 +34,18 @@
   </div>
 <br>
   
-  <h2><i>Backend</i></h2>
+  <h2><i>- Backend</i></h2>
   <div>
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/SQL.png" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;    
+    <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
+    <img src="icons/MySQL.svg" height="50vh" width="50vh">
   </div>
 <br/>
 
-  <h2><i>Programming Languages</i></h2>
+  <h2><i>- Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
@@ -52,7 +53,7 @@
 <br/>
 
     
-<h2><i>IDEs, Programs & Tools</i></h2>
+<h2><i>- IDEs, Programs & Tools</i></h2>
   <div>
       <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
