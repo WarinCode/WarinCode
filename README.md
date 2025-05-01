@@ -39,6 +39,7 @@
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/SQL.png" height="50vh" width="50vh">&nbsp; 
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">
