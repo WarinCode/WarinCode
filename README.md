@@ -16,8 +16,10 @@
   <i>🏫 I'm studying at Kasetsart University Sriracha Campus. (KU83 CS27)</i>
 </div>
 
+<br>
+
 <span>
-<h2><i>Programming Languages</i></h2>
+  <h2><i>Programming Languages</i></h2>
   <div>
     <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
@@ -70,10 +72,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=WarinCode&theme=react&hide_border=true&border_radius=23&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/varin" style="position:relative; right:0">
-  <img src="img/btn-buymeacoffee.png" alt="buymeacoffee" style="width:260px; height:80px;" align="right" />
-</a>
