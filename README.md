@@ -2,7 +2,6 @@
 
 <h1 align="center"><i>About me</i>📕</h1>
 
-
 <div>
 
   [![](https://visitcount.itsvg.in/api?id=Warin&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
@@ -18,41 +17,46 @@
 
 <br>
 
+<h1 align="center"><i>Tech Stack💻</i></h1>
+<br>
+
 <span>
-  <h2><i>Programming Languages</i></h2>
+  
+  <h2><i>Frontend</i></h2>
   <div>
     <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/SQL.png" height="50vh" width="50vh">
-  </div>
-<br/>
-
-<h2><i>JavaScript Runtimes</i></h2>
-  <div>
-    <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Bun.svg" height="50vh" width="50vh">
-  </div>
-<br/>
-  
-<h2><i>Frameworks & Libraries</i></h2>
-  <div>
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Express.svg" height="50vh" width="50vh">
+  </div>
+<br>
+  
+  <h2><i>Backend</i></h2>
+  <div>
+    <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/SQL.png" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;    
   </div>
 <br/>
 
+  <h2><i>Programming Languages</i></h2>
+  <div>
+    <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
+  </div>
+<br/>
+
+    
 <h2><i>IDEs, Programs & Tools</i></h2>
   <div>
       <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">
