@@ -29,6 +29,7 @@
     <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
   </div>
@@ -46,7 +47,7 @@
   </div>
 <br/>
 
-  <h2><i>- Programming Languages</i></h2>
+  <h2><i>- Other Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
@@ -56,7 +57,6 @@
     
 <h2><i>- IDEs, Programs & Tools</i></h2>
   <div>
-      <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
