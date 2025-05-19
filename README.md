@@ -1,5 +1,3 @@
-![Github Banner](https://kinsta.com/fr/wp-content/uploads/sites/4/2023/02/github-pages.jpg)
-
 <h1 align="center"><i>About me</i>📕</h1>
 
 <div>
@@ -26,22 +24,21 @@
   <div>
     <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Sass.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Material UI.svg" height="50vh" width="50vh">&nbsp;
   </div>
 <br>
   
   <h2><i>- Backend</i></h2>
   <div>
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/SQL.png" height="50vh" width="50vh">&nbsp; 
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">
   </div>
@@ -51,6 +48,7 @@
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/SQL.png" height="50vh" width="50vh">
   </div>
 <br/>
 
@@ -75,6 +73,5 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=WarinCode&theme=juicyfresh&column=8&row=1&margin-w=15&margin-h=19)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=WarinCode&theme=react&hide_border=true&border_radius=23&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
