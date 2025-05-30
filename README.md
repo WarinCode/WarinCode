@@ -47,6 +47,13 @@
   </div>
 <br>
 
+  <h2><i>- Programs & Tools</i></h2>
+  <div>
+      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/Postman.svg" height="50vh" width="50vh">
+  </div>
+<br>
+
   <h2><i>- Other Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
@@ -55,16 +62,6 @@
   </div>
 <br>
     
-<h2><i>- IDEs, Programs & Tools</i></h2>
-  <div>
-      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/DataGrip.svg" height="50vh" width="50vh">
-  </div>
-<br>
-
 <h1 align="center"><i>Stats</i>📊</h1><br/>
 <div align="center"><br/>
   
