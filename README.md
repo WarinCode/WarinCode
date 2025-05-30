@@ -1,7 +1,7 @@
 <h1 align="center"><i>About me</i>📕</h1>
 
 <div>
-  <i>👓 My name is <a href="https://www.instagram.com/warin.tsx">Warin Saipanya.</a></i><br/>
+  <i>👓 My name is <a href="https://www.instagram.com/warin.dev">Warin Saipanya.</a></i><br/>
   <i>💻 I'm interested in web development and programming languages.</i><br/>
   <i>🌐 And now I'm the Frontend Developer.</a></i><br/>
   <i>🕐 I spend all my free time coding and reading.</i><br/>
