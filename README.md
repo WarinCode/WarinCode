@@ -1,10 +1,6 @@
 <h1 align="center"><i>About me</i>📕</h1>
 
 <div>
-
-  [![](https://visitcount.itsvg.in/api?id=Warin&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
-    
   <i>👓 My name is <a href="https://www.instagram.com/warin.tsx">Warin Saipanya.</a></i><br/>
   <i>💻 I'm interested in web development and programming languages.</i><br/>
   <i>🌐 And now I'm the Frontend Developer.</a></i><br/>
@@ -42,7 +38,14 @@
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">
   </div>
-<br/>
+<br>
+
+  <h2><i>- Deployment</i></h2>
+  <div>
+    <img src="icons/Vercel.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Render.svg" height="50vh" width="50vh">
+  </div>
+<br>
 
   <h2><i>- Other Programming Languages</i></h2>
   <div>
@@ -50,8 +53,7 @@
     <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/SQL.png" height="50vh" width="50vh">
   </div>
-<br/>
-
+<br>
     
 <h2><i>- IDEs, Programs & Tools</i></h2>
   <div>
@@ -61,7 +63,7 @@
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">
   </div>
-<br/>
+<br>
 
 <h1 align="center"><i>Stats</i>📊</h1><br/>
 <div align="center"><br/>
