@@ -26,6 +26,7 @@
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Material UI.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Axios.svg" height="50vh" width="50vh">&nbsp;
   </div>
 <br>
   
@@ -50,7 +51,8 @@
   <h2><i>- Programs & Tools</i></h2>
   <div>
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Postman.svg" height="50vh" width="50vh">
+      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/DataGrip.svg" height="50vh" width="50vh">
   </div>
 <br>
 
