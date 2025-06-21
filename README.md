@@ -49,11 +49,15 @@
   </div>
 <br>
 
-  <h2><i>- Programs & Tools</i></h2>
+  <h2><i>- Version Control</i></h2>
   <div>
-      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/DataGrip.svg" height="50vh" width="50vh">
+      <img src="icons/Git.svg" height="50vh" width="50vh">
+  </div>
+<br>
+
+  <h2><i>- API Testing</i></h2>
+  <div>
+      <img src="icons/Postman.svg" height="50vh" width="50vh">
   </div>
 <br>
 
