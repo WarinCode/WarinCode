@@ -11,7 +11,7 @@
 
 <br>
 
-<h1 align="center"><i>Tech Stack💻</i></h1>
+<h1 align="center"><i>My Tech Stack💻</i></h1>
 <br>
 
 <span>
@@ -69,7 +69,7 @@
   </div>
 <br>
     
-<h1 align="center"><i>Stats</i>📊</h1><br/>
+<h1 align="center"><i>My Stats</i>📊</h1><br/>
 <div align="center"><br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)&nbsp;
