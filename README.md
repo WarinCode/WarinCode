@@ -44,7 +44,8 @@
   <h2><i>- Deployment</i></h2>
   <div>
     <img src="icons/Vercel.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Render.svg" height="50vh" width="50vh">
+    <img src="icons/Render.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/netlify.svg" height="50vh" width="50vh">
   </div>
 <br>
 
