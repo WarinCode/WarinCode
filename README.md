@@ -32,6 +32,8 @@
   
   <h2><i>- Backend</i></h2>
   <div>
+    <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/jwt.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
