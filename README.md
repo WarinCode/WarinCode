@@ -25,7 +25,7 @@
     <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Material UI.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Axios.svg" height="50vh" width="50vh">&nbsp;
   </div>
 <br>
@@ -33,13 +33,13 @@
   <h2><i>- Backend</i></h2>
   <div>
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/jwt.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
-    <img src="icons/MySQL.svg" height="50vh" width="50vh">
+    <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/neon.svg" height="50vh" width="50vh">
   </div>
 <br>
 
