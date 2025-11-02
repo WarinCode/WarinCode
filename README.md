@@ -67,8 +67,7 @@
   <h2><i>- Other Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Java.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/SQL.png" height="50vh" width="50vh">
+    <img src="icons/Java.svg" height="50vh" width="50vh">
   </div>
 <br>
     
