@@ -22,7 +22,6 @@
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
@@ -33,13 +32,13 @@
   
   <h2><i>- Backend</i></h2>
   <div>
-    <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/neon.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/stack-auth.svg" height="50vh" width="50vh">
   </div>
