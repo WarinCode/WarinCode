@@ -22,6 +22,7 @@
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
@@ -61,6 +62,14 @@
   <h2><i>- API Testing</i></h2>
   <div>
       <img src="icons/Postman.svg" height="50vh" width="50vh">
+  </div>
+<br>
+
+  <h2><i>- IDEs, Programs & Editors</i></h2>
+  <div>
+      <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/DataGrip.svg" height="50vh" width="50vh">&nbsp;
   </div>
 <br>
 
