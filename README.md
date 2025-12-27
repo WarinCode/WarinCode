@@ -55,7 +55,8 @@
 
   <h2><i>- Version Control</i></h2>
   <div>
-      <img src="icons/Git.svg" height="50vh" width="50vh">
+      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/gitlab.svg" height="50vh" width="50vh">
   </div>
 <br>
 
