@@ -26,8 +26,7 @@
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Axios.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">
   </div>
 <br>
   
@@ -40,16 +39,14 @@
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/neon.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/stack-auth.svg" height="50vh" width="50vh">
+    <img src="icons/neon.svg" height="50vh" width="50vh">
   </div>
 <br>
 
   <h2><i>- Deployment</i></h2>
   <div>
     <img src="icons/Vercel.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Render.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/netlify.svg" height="50vh" width="50vh">
+    <img src="icons/Render.svg" height="50vh" width="50vh">
   </div>
 <br>
 
