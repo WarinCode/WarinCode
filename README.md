@@ -41,27 +41,33 @@
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/neon.svg" height="50vh" width="50vh">
   </div>
-<br>
+  <br>
 
   <h2><i>- Deployment</i></h2>
   <div>
     <img src="icons/Vercel.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Render.svg" height="50vh" width="50vh">
   </div>
-<br>
+  <br>
+  
+  <h2><i>- Cloud</i></h2>
+  <div>
+    <img src="icons/azure.svg" height="50vh" width="50vh">
+  </div>
+  <br>
 
   <h2><i>- Version Control</i></h2>
   <div>
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/gitlab.svg" height="50vh" width="50vh">
   </div>
-<br>
+  <br>
 
   <h2><i>- API Testing</i></h2>
   <div>
       <img src="icons/Postman.svg" height="50vh" width="50vh">
   </div>
-<br>
+  <br>
 
   <h2><i>- IDEs, Programs & Editors</i></h2>
   <div>
@@ -69,14 +75,14 @@
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">&nbsp;
   </div>
-<br>
+  <br>
 
   <h2><i>- Other Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">
   </div>
-<br>
+  <br>
     
 <h1 align="center"><i>My Stats</i>📊</h1><br/>
 <div align="center"><br/>
