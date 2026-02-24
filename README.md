@@ -40,7 +40,8 @@
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/neon.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/stack-auth.svg" height="50vh" width="50vh">
+    <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/stack-auth.svg" height="50vh" width="50vh">&nbsp;
   </div>
   <br>
 
