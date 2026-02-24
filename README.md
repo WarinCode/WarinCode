@@ -39,7 +39,8 @@
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/neon.svg" height="50vh" width="50vh">
+    <img src="icons/neon.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/stack-auth.svg" height="50vh" width="50vh">
   </div>
   <br>
 
@@ -58,8 +59,7 @@
 
   <h2><i>- Version Control</i></h2>
   <div>
-      <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/gitlab.svg" height="50vh" width="50vh">
+      <img src="icons/Git.svg" height="50vh" width="50vh">
   </div>
   <br>
 
@@ -87,12 +87,5 @@
 <h1 align="center"><i>My Stats</i>📊</h1><br/>
 <div align="center"><br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WarinCode&show_icons=true&theme=tokyonight&border_color=7b00a8&card_width=400&border_radius=25&rank_icon=github&include_all_commits=true&line_height=30)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WarinCode&theme=tokyonight&layout=donut-vertical&border_color=7b00a8&border_radius=25&langs_count=50)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=WarinCode&theme=juicyfresh&column=8&row=1&margin-w=15&margin-h=19)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
