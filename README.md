@@ -26,7 +26,8 @@
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">
+    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/bootstrap.svg" height="50vh" width="50vh">
   </div>
 <br>
   
