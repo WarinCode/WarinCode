@@ -22,12 +22,12 @@
     <img src="icons/CSS3.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/JavaScript.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/TypeScript.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/Vite.js.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/vite.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/bootstrap.svg" height="50vh" width="50vh">
+    <img src="icons/bootstrap.svg" height="50vh" width="50vh">&nbsp;
   </div>
 <br>
   
