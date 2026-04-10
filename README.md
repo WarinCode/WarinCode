@@ -52,12 +52,6 @@
   </div>
   <br>
   
-  <h2><i>- Cloud</i></h2>
-  <div>
-    <img src="icons/azure.svg" height="50vh" width="50vh">
-  </div>
-  <br>
-
   <h2><i>- Version Control</i></h2>
   <div>
       <img src="icons/Git.svg" height="50vh" width="50vh">
