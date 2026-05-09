@@ -28,7 +28,7 @@
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/bootstrap.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/jquery.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/jQuery.svg" height="50vh" width="50vh">&nbsp; 
   </div>
 <br>
   
@@ -37,12 +37,12 @@
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Bun.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Express.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/csharp.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/dotnet.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/sql-server.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/csharp.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/dotnet.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/stack-auth.webp" height="50vh" width="50vh">&nbsp;
