@@ -26,7 +26,9 @@
     <img src="icons/React.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/nextjs.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">
+    <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp; 
+    <img src="icons/bootstrap.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/jquery.svg" height="50vh" width="50vh">&nbsp; 
   </div>
 <br>
   
@@ -38,6 +40,9 @@
     <img src="icons/ElysiaJS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/MySQL.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/sql-server.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/csharp.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/dotnet.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/stack-auth.webp" height="50vh" width="50vh">&nbsp;
@@ -67,6 +72,7 @@
   <h2><i>- IDEs, Programs & Editors</i></h2>
   <div>
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/visual-studio.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">&nbsp;
   </div>
