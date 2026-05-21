@@ -69,6 +69,12 @@
   </div>
   <br>
 
+  <h2><i>- UX/UI Design</i></h2>
+  <div>
+      <img src="icons/figma.svg" height="50vh" width="50vh">
+  </div>
+  <br>
+
   <h2><i>- IDEs, Programs & Editors</i></h2>
   <div>
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
