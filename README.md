@@ -50,8 +50,7 @@
 
   <h2><i>- Deployment</i></h2>
   <div>
-    <img src="icons/Vercel.svg" height="50vh" width="50vh">&nbsp; 
-    <img src="icons/Render.svg" height="50vh" width="50vh">
+    <img src="icons/Vercel.svg" height="50vh" width="50vh">
   </div>
   <br>
   
@@ -63,7 +62,8 @@
 
   <h2><i>- API Testing</i></h2>
   <div>
-      <img src="icons/Postman.svg" height="50vh" width="50vh">
+      <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/bruno.png" height="50vh" width="50vh">
   </div>
   <br>
 
