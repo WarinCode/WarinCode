@@ -63,7 +63,7 @@
   <h2><i>- API Testing</i></h2>
   <div>
       <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/bruno.png" height="50vh" width="50vh">
+      <img src="icons/bruno.png" height="50vh" width="55vh">
   </div>
   <br>
 
