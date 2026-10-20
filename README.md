@@ -59,10 +59,11 @@
   </div>
   <br>
 
-  <h2><i>- API Testing</i></h2>
+  <h2><i>- Testing</i></h2>
   <div>
       <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/bruno.png" height="50vh" width="55vh">
+      <img src="icons/bruno.png" height="50vh" width="55vh">&nbsp;
+      <img src="icons/vitest.svg" height="50vh" width="55vh">
   </div>
   <br>
 
