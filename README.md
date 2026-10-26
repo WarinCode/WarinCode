@@ -41,9 +41,8 @@
     <img src="icons/dotnet.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/sql-server.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/zod.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
-    <img src="icons/neon.svg" height="45vh" width="50vh">&nbsp;
+    <img src="icons/zod.svg" height="50vh" width="50vh">
   </div>
   <br>
 
@@ -88,10 +87,3 @@
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">
   </div>
-  <br>
-    
-<h1 align="center"><i>My Stats</i>📊</h1><br/>
-<div align="center"><br/>
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WarinCode&hide_border=true&theme=react-dark&radius=5)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
