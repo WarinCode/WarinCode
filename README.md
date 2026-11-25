@@ -1,21 +1,15 @@
 <h1 align="center"><i>About me</i>📕</h1>
-
 <div>
-  <i>👓 My name is <a href="https://www.instagram.com/warin.dev">Warin Saipanya.</a></i><br/>
-  <i>💻 I'm interested in web development and programming languages.</i><br/>
-  <i>🌐 And now I'm the Frontend Developer.</a></i><br/>
-  <i>🕐 I spend all my free time coding and reading.</i><br/>
-  <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (CS4)</i><br/>
-  <i>🏫 I'm studying at Kasetsart University Sriracha Campus. (KU83 CS27)</i>
-</div>
+    <i>👓 My name is <a href="https://www.instagram.com/warin.dev">Warin Saipanya.</a></i><br/>
+    <i>💻 I'm interested in web development and programming languages.</i><br/>
+    <i>🌐 And now I'm the Frontend Developer.</a></i><br/>
+    <i>🕐 I spend all my free time coding and reading.</i><br/>
+    <i>🎓 Graduated high school from PhothiSamphanPhitthayakan School. (CS4)</i><br/>
+    <i>🏫 I'm studying at Kasetsart University Sriracha Campus. (KU83 CS27)</i>
+</div><br/>
 
-<br>
-
-<h1 align="center"><i>My Tech Stack💻</i></h1>
-<br>
-
-<span>
-  
+<h1 align="center"><i>My Tech Stack</i>💻</h1><br/>
+<div>
   <h2><i>- Frontend</i></h2>
   <div>
     <img src="icons/HTML5.svg" height="50vh" width="50vh">&nbsp;
@@ -28,9 +22,7 @@
     <img src="icons/Tailwind CSS.svg" height="50vh" width="50vh">&nbsp; 
     <img src="icons/shadcn-ui.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/jQuery.svg" height="50vh" width="50vh">&nbsp; 
-  </div>
-<br>
-  
+  </div><br/>
   <h2><i>- Backend</i></h2>
   <div>
     <img src="icons/Node.js.svg" height="50vh" width="50vh">&nbsp; 
@@ -44,35 +36,25 @@
     <img src="icons/mongodb.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">
-  </div>
-  <br>
-
+  </div><br/>
   <h2><i>- Deployment</i></h2>
   <div>
     <img src="icons/Vercel.svg" height="50vh" width="50vh">
-  </div>
-  <br>
-  
+  </div><br/>
   <h2><i>- Version Control</i></h2>
   <div>
       <img src="icons/Git.svg" height="50vh" width="50vh">
-  </div>
-  <br>
-
+  </div><br/>
   <h2><i>- Testing</i></h2>
   <div>
       <img src="icons/Postman.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/bruno.png" height="50vh" width="55vh">&nbsp;
       <img src="icons/vitest.svg" height="50vh" width="55vh">
-  </div>
-  <br>
-
+  </div><br/>
   <h2><i>- UX/UI Design</i></h2>
   <div>
       <img src="icons/figma.svg" height="50vh" width="50vh">
-  </div>
-  <br>
-
+  </div><br/>
   <h2><i>- IDEs, Programs & Editors</i></h2>
   <div>
       <img src="icons/Visual Studio Code (VS Code).svg" height="50vh" width="50vh">&nbsp;
@@ -80,11 +62,17 @@
       <img src="icons/IntelliJ IDEA.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/rider.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/DataGrip.svg" height="50vh" width="50vh">&nbsp;
-  </div>
-  <br>
-
+  </div><br/>
   <h2><i>- Other Programming Languages</i></h2>
   <div>
     <img src="icons/Python.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/Java.svg" height="50vh" width="50vh">
   </div>
+</div>
+
+<h1 align="center"><i>Certificates</i>🏆</h1><br/>
+<div>
+  <a href="https://www.credly.com/badges/0d2d4d57-73c2-446c-b3c0-baf0dfbcf077" target="_blank">
+    <img src="certificates/gc-cybersecurity.png" height="140px" width="140px" />
+  </a>
+</div>
