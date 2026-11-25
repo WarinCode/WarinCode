@@ -41,6 +41,7 @@
     <img src="icons/dotnet.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/PostgresSQL.svg" height="50vh" width="50vh">&nbsp;    
     <img src="icons/sql-server.svg" height="50vh" width="50vh">&nbsp;
+    <img src="icons/mongodb.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/better-auth.svg" height="50vh" width="50vh">&nbsp;
     <img src="icons/zod.svg" height="50vh" width="50vh">
   </div>
