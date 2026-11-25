@@ -72,7 +72,6 @@
 
 <h1 align="center"><i>Certificates</i>🏆</h1><br/>
 <div>
-  <a href="https://www.credly.com/badges/0d2d4d57-73c2-446c-b3c0-baf0dfbcf077" target="_blank">
-    <img src="certificates/gc-cybersecurity.png" height="140px" width="140px" />
-  </a>
+<a href="https://www.credly.com/badges/0d2d4d57-73c2-446c-b3c0-baf0dfbcf077" target="_blank"><img src="certificates/gc-cybersecurity.png" height="140px" width="140px" /></a>&nbsp;
+<a href="https://www.credly.com/badges/36c8e564-57f6-4eb2-a0a2-e43ddd2a9893" target="_blank"><img src="certificates/gc-data-analytics.png" height="140px" width="140px" /></a>
 </div>
