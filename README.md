@@ -41,10 +41,10 @@
   <div>
     <img src="icons/Vercel.svg" height="50vh" width="50vh">
   </div><br/>
-  <h2><i>- Version Control and Git Provider</i></h2>
+  <h2><i>- Version Control and Git Providers</i></h2>
   <div>
       <img src="icons/Git.svg" height="50vh" width="50vh">&nbsp;
-      <img src="icons/github.svg" height="50vh" width="50vh">&nbsp;
+      <img src="icons/github_dark.svg" height="50vh" width="50vh">&nbsp;
       <img src="icons/gitlab.svg" height="50vh" width="50vh">
   </div><br/>
   <h2><i>- Testing</i></h2>
